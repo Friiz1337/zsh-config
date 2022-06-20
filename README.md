@@ -1,9 +1,10 @@
 # **Prompt Color**
 
-My prompt: ``` PROMPT="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M%{$fg[red]%}%{$fg[pink]%}]%{$fg[magenta]%}%~%{$reset_color%}$%b " ```
-
 ![Screenshot from 2022-06-21 00-35-49](https://user-images.githubusercontent.com/107729536/174689050-81f88aaa-8804-4036-9438-d90a5296b298.png) 
+ 
+Set your PROMPT variable to: 
 
+``` PROMPT="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M%{$fg[red]%}%{$fg[pink]%}]%{$fg[magenta]%}%~%{$reset_color%}$%b " ```
 
 # Command Highlighting and Suggestions
 
